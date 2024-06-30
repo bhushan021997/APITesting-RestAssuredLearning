@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="D:/Java/APITesting-RestAssuredLearning"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.023">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getRequest1"
+                time="2.788"
+                classname="Testng.Lab261">
+            </testcase>
+            <testcase
+                name="getRequest2"
+                time="1.235"
+                classname="Testng.Lab261">
+            </testcase>
+</testsuite>

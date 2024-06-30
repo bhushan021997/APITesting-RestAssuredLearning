@@ -2,13 +2,14 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true"
-          name="D:/Java/APITesting-RestAssuredLearning/src/test/java/Testng/Lab261.java">
+          name="D:/Java/APITesting-RestAssuredLearning/src/test/java/Testng/Lab267.java">
         <classes>
-            <class name="Testng.Lab261">
-<!--                <methods>-->
-<!--                    <include name="getRequest1"/>-->
-<!--                    <include name="getRequest2"/>-->
-<!--                </methods>-->
+            <class name="Testng.Lab267">
+                <methods>
+                    <include name="testPUTReq"/>
+                    <include name="testDeleteReq"/>
+                    <include name="testGETReq"/>
+                </methods>
             </class>
         </classes>
     </test>

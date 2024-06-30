@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APITesting-RestAssuredLearning"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.126">
+    <properties></properties>
+
+
+
+            <testcase
+                name="DeSerializationTest"
+                time="0.126"
+                classname="ex_27062024.GSON.Deserelization.Lab293A">
+            </testcase>
+</testsuite>

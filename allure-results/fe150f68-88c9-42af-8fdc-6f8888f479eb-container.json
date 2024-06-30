@@ -1,0 +1,1 @@
+{"uuid":"fe150f68-88c9-42af-8fdc-6f8888f479eb","name":"APITesting-RestAssuredLearning","children":["455bb627-cc68-4027-92ba-6f5142e776d3"],"befores":[{"name":"getBookingID","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1719406950951,"stop":1719406953767}],"afters":[],"start":1719406950933,"stop":1719406955025}
